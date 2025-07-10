@@ -1,0 +1,6543 @@
+[
+  {
+    "FirstName": "H C",
+    "LastName": "Akeley",
+    "Spouse": null,
+    "Occupation": "Pres",
+    "CompanyName": "AKELEY H C LUMBER CO",
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "C H",
+    "LastName": "Hackley",
+    "Spouse": null,
+    "Occupation": "Vice-Pres",
+    "CompanyName": "AKELEY H C LUMBER CO",
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Thomas",
+    "LastName": "Hume",
+    "Spouse": null,
+    "Occupation": "Treas",
+    "CompanyName": "AKELEY H C LUMBER CO",
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "F S",
+    "LastName": "Farr",
+    "Spouse": null,
+    "Occupation": "Sec",
+    "CompanyName": "AKELEY H C LUMBER CO",
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Ray",
+    "LastName": "C",
+    "Spouse": null,
+    "Occupation": "trav agt",
+    "CompanyName": "Pittsburg Plateburgh Piate Glass Co",
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Wm H",
+    "LastName": "Aken",
+    "Spouse": null,
+    "Occupation": "agt",
+    "CompanyName": "Nat Computing Scale Co",
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Herman G",
+    "LastName": "Akenson",
+    "Spouse": null,
+    "Occupation": "butcher",
+    "CompanyName": "B Johnson & Co",
+    "HomeAddress": {
+      "StreetNumber": "1112",
+      "StreetName": "e 2ist",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Nels",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "tailor",
+    "CompanyName": "O Moren",
+    "HomeAddress": {
+      "StreetNumber": "1809",
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Nels",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "butcher",
+    "CompanyName": "E Johnson & Co",
+    "HomeAddress": {
+      "StreetNumber": "3121",
+      "StreetName": "10th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Wm",
+    "LastName": "Aker",
+    "Spouse": null,
+    "Occupation": "opr",
+    "CompanyName": "Fire- Proof Door Co",
+    "HomeAddress": {
+      "StreetNumber": "3500",
+      "StreetName": "e",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Andrew",
+    "LastName": "Akerberg",
+    "Spouse": null,
+    "Occupation": "carp",
+    "CompanyName": "Simonson Bros Mfg Co",
+    "HomeAddress": {
+      "StreetNumber": "1213",
+      "StreetName": "s 9th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Anna N",
+    "LastName": "Akerberg",
+    "Spouse": null,
+    "Occupation": "trimmer",
+    "CompanyName": "J W Kerr",
+    "HomeAddress": {
+      "StreetNumber": "1213",
+      "StreetName": "s 9th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Carl",
+    "LastName": "Akerberg",
+    "Spouse": null,
+    "Occupation": "photogr",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1213",
+      "StreetName": "s 9th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Hulda",
+    "LastName": "Akerberg",
+    "Spouse": null,
+    "Occupation": "clk",
+    "CompanyName": "J W Kerr",
+    "HomeAddress": {
+      "StreetNumber": "1213",
+      "StreetName": "s 9th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Beatrice",
+    "LastName": "Akerlund",
+    "Spouse": null,
+    "Occupation": "smstrs",
+    "CompanyName": "C E Dean",
+    "HomeAddress": {
+      "StreetNumber": "602",
+      "StreetName": "aves",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Gudmund",
+    "LastName": "Akermark",
+    "Spouse": null,
+    "Occupation": "editor",
+    "CompanyName": "Svenska Folkets Tidning",
+    "HomeAddress": {
+      "StreetNumber": "2310",
+      "StreetName": "12th s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles W",
+    "LastName": "Akers",
+    "Spouse": null,
+    "Occupation": "clk",
+    "CompanyName": "L Lamb Lbr Co",
+    "HomeAddress": {
+      "StreetNumber": "1007",
+      "StreetName": "Park a",
+      "ApartmentOrUnit": "2",
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Emma",
+    "LastName": "Akers",
+    "Spouse": "Walter E B",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1007",
+      "StreetName": "Park",
+      "ApartmentOrUnit": "2",
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Nannie E",
+    "LastName": "Akers",
+    "Spouse": null,
+    "Occupation": "tehr",
+    "CompanyName": "Hamilton school",
+    "HomeAddress": {
+      "StreetNumber": "408",
+      "StreetName": "e",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Samuel H",
+    "LastName": "Akers",
+    "Spouse": null,
+    "Occupation": "cook",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "218",
+      "StreetName": "s 8th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Susan",
+    "LastName": "Akers",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1614",
+      "StreetName": "ist",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Andrew",
+    "LastName": "Akerson",
+    "Spouse": null,
+    "Occupation": "mason",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "3139",
+      "StreetName": "19th a",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Annie",
+    "LastName": "Akerson",
+    "Spouse": null,
+    "Occupation": "mach opr",
+    "CompanyName": "F E Tallant",
+    "HomeAddress": {
+      "StreetNumber": "1901",
+      "StreetName": "Western av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Hannah",
+    "LastName": "Akerson",
+    "Spouse": "Lars",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2290",
+      "StreetName": "12th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Herman H",
+    "LastName": "Akerson",
+    "Spouse": null,
+    "Occupation": "tailor",
+    "CompanyName": "Pease Bros",
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Neil",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "409",
+      "StreetName": "Washn av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Nels",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "carp",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2220",
+      "StreetName": "12th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Oscar",
+    "LastName": "B",
+    "Spouse": null,
+    "Occupation": "car cinr",
+    "CompanyName": "W Cc Ry",
+    "HomeAddress": {
+      "StreetNumber": "2217",
+      "StreetName": "Lyndale av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Anna",
+    "LastName": "Akeson",
+    "Spouse": null,
+    "Occupation": "smstrs",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1901",
+      "StreetName": "8 5th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Carl",
+    "LastName": "A",
+    "Spouse": null,
+    "Occupation": "musical instrument mfr",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2700",
+      "StreetName": "1th avs",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": {
+      "StreetNumber": "222",
+      "StreetName": "Franklin av e",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "w"
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Nels",
+    "LastName": "Akeyson",
+    "Spouse": null,
+    "Occupation": "foreman",
+    "CompanyName": "J C G Eanders & Co",
+    "HomeAddress": {
+      "StreetNumber": "2711",
+      "StreetName": "Dupont av n",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Leslie",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "student",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1007",
+      "StreetName": "Park av",
+      "ApartmentOrUnit": "3",
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "G",
+    "Spouse": null,
+    "Occupation": "pkr",
+    "CompanyName": "Mpls Sash & Door Co",
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Louis",
+    "LastName": "W",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Andrew",
+    "LastName": "J",
+    "Spouse": null,
+    "Occupation": "lab",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2439",
+      "StreetName": "Columbus",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Ellen",
+    "LastName": null,
+    "Spouse": "Aake",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1901",
+      "StreetName": "sth",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Clara",
+    "LastName": "Akland",
+    "Spouse": null,
+    "Occupation": "mach opr",
+    "CompanyName": "Sterling Mats",
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Hallward",
+    "LastName": "Akselsen",
+    "Spouse": null,
+    "Occupation": "printer",
+    "CompanyName": "Foss & Lund Pub Co",
+    "HomeAddress": {
+      "StreetNumber": "1807",
+      "StreetName": "Riverside av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Albin",
+    "LastName": "Akstrom",
+    "Spouse": null,
+    "Occupation": "sealer",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "816",
+      "StreetName": "18th av n",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Alfred",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "carp",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "64",
+      "StreetName": "ne Jackson",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Wrm",
+    "LastName": "Aladalo",
+    "Spouse": null,
+    "Occupation": "lab",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "110",
+      "StreetName": "n Sth",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Joseph",
+    "LastName": "Alair",
+    "Spouse": null,
+    "Occupation": "plksmith",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "419",
+      "StreetName": "Waghn av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Mary",
+    "LastName": "Alama",
+    "Spouse": null,
+    "Occupation": "laundress",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "507",
+      "StreetName": "n 3d",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "August",
+    "LastName": "Alander",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": "Alander & Forsblade",
+    "HomeAddress": {
+      "StreetNumber": "1915",
+      "StreetName": "e Polk",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Albin",
+    "LastName": "Forsblade",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": "Alander & Forsblade",
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Sidney",
+    "LastName": "Alarie",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1104",
+      "StreetName": "n e Adam",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Edmond",
+    "LastName": "Alary",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Philomene",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Nels",
+    "LastName": "Albéck",
+    "Spouse": null,
+    "Occupation": "lab",
+    "CompanyName": "Carpenter-Lamb Co",
+    "HomeAddress": {
+      "StreetNumber": "2600",
+      "StreetName": "n e Marshall",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Elizabeth",
+    "LastName": "Albee",
+    "Spouse": null,
+    "Occupation": "stenogr",
+    "CompanyName": "GP Derickgon & Co",
+    "HomeAddress": {
+      "StreetNumber": "2",
+      "StreetName": "w Lake",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Louise",
+    "LastName": "Pen",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1015",
+      "StreetName": "Mar",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Matilda",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "clk",
+    "CompanyName": "Ton Ww Thomas & Co",
+    "HomeAddress": {
+      "StreetNumber": "2",
+      "StreetName": "Ww Lake",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Wm",
+    "LastName": "Albee",
+    "Spouse": null,
+    "Occupation": "Abstracts of Title",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "608",
+      "StreetName": "we Phoenix",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": "Main 217-31",
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "zilpha",
+    "LastName": "Albee",
+    "Spouse": "James",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2934",
+      "StreetName": "4th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "E",
+    "LastName": "Baker",
+    "Spouse": null,
+    "Occupation": "pres",
+    "CompanyName": "Albemarle Athletic Assn",
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "ET",
+    "LastName": "Blake",
+    "Spouse": null,
+    "Occupation": "sec and mngr",
+    "CompanyName": "Albemarle Athletic Assn",
+    "HomeAddress": null,
+    "WorkAddress": {
+      "StreetNumber": "520",
+      "StreetName": "Hennepin",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "w"
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "August",
+    "LastName": "Albers",
+    "Spouse": null,
+    "Occupation": "carp",
+    "CompanyName": "Soo Line",
+    "HomeAddress": {
+      "StreetNumber": "2729",
+      "StreetName": "n e Taylor",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "August",
+    "LastName": "Ahlberg",
+    "Spouse": null,
+    "Occupation": "elk",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2527",
+      "StreetName": "e 22d",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "Ahlberg",
+    "Spouse": null,
+    "Occupation": "draper",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2527",
+      "StreetName": "e 22d",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Frank",
+    "LastName": "Ahlberg",
+    "Spouse": null,
+    "Occupation": "wagonmkr",
+    "CompanyName": "Peter Howard",
+    "HomeAddress": {
+      "StreetNumber": "738",
+      "StreetName": "Nn Jefferson",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "John",
+    "LastName": "Ahlberg",
+    "Spouse": null,
+    "Occupation": "tmstr",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1616",
+      "StreetName": "9 c",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Louis",
+    "LastName": "Alberovaky",
+    "Spouse": null,
+    "Occupation": "student",
+    "CompanyName": "M",
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": "St. Paul",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "Albert",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "Albert",
+    "Spouse": null,
+    "Occupation": "lawyer",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1004",
+      "StreetName": "Guaranty bldg",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Frank",
+    "LastName": "Albert",
+    "Spouse": null,
+    "Occupation": "lab",
+    "CompanyName": "Miss & R R Boom Co",
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "George",
+    "LastName": "Albert",
+    "Spouse": null,
+    "Occupation": "printer",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "609",
+      "StreetName": "Jewett pl",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Frederick",
+    "LastName": "Alberti",
+    "Spouse": null,
+    "Occupation": "bartndr",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "419",
+      "StreetName": "s 11th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": {
+      "StreetNumber": "119",
+      "StreetName": "Nicollet ay",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "w"
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Josephine",
+    "LastName": "Alberti",
+    "Spouse": "Chauncey",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "419",
+      "StreetName": "sith",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Katherine",
+    "LastName": "Alberti",
+    "Spouse": null,
+    "Occupation": "clk",
+    "CompanyName": "James a Young Land Co",
+    "HomeAddress": {
+      "StreetNumber": "49",
+      "StreetName": "s 11th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Oona",
+    "LastName": "Alberts",
+    "Spouse": null,
+    "Occupation": "dom",
+    "CompanyName": "Hotel Hyser",
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Martin",
+    "LastName": "Alberts",
+    "Spouse": null,
+    "Occupation": "waiter",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "10",
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": {
+      "StreetNumber": "225",
+      "StreetName": "Nicollet av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "w"
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Athsa",
+    "LastName": "Albertson",
+    "Spouse": null,
+    "Occupation": "matron",
+    "CompanyName": "Woman's Boarding Home",
+    "HomeAddress": {
+      "StreetNumber": "409",
+      "StreetName": "s 6th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Albert",
+    "LastName": "Albertson",
+    "Spouse": null,
+    "Occupation": "coachman",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "21",
+      "StreetName": "Highland av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Edward",
+    "LastName": "Albertson",
+    "Spouse": null,
+    "Occupation": "student",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "306",
+      "StreetName": "University av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Eunice",
+    "LastName": "Albertson",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "518",
+      "StreetName": "8th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Frank",
+    "LastName": "Albertson",
+    "Spouse": null,
+    "Occupation": "lab",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "15",
+      "StreetName": "n 4",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Gustave",
+    "LastName": "Albertson",
+    "Spouse": null,
+    "Occupation": "mach",
+    "CompanyName": "Pillsbury A Mill",
+    "HomeAddress": {
+      "StreetNumber": "216",
+      "StreetName": "22a av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "R",
+    "LastName": "Newport",
+    "Spouse": null,
+    "Occupation": "INVESTMENT BANKERS",
+    "CompanyName": "R. M. Newport & Son",
+    "HomeAddress": null,
+    "WorkAddress": {
+      "StreetNumber": null,
+      "StreetName": "Nicollet Ave., Corner Fourth St.",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "w"
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Johanna",
+    "LastName": "Albertson",
+    "Spouse": "Martin",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "20th",
+      "StreetName": "av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Mary",
+    "LastName": "Albertson",
+    "Spouse": null,
+    "Occupation": "student",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "306",
+      "StreetName": "University av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Wm",
+    "LastName": "Albertson",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": "baseline stoves",
+    "HomeAddress": {
+      "StreetNumber": "254",
+      "StreetName": "6th av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Abel",
+    "LastName": "Albin",
+    "Spouse": null,
+    "Occupation": "engr",
+    "CompanyName": "Mpls. Engraving Co",
+    "HomeAddress": {
+      "StreetNumber": "2115",
+      "StreetName": "n 3d",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Andrew",
+    "LastName": "Albin",
+    "Spouse": null,
+    "Occupation": "carp",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2437",
+      "StreetName": "18th av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "August",
+    "LastName": "Albin",
+    "Spouse": null,
+    "Occupation": "cabtmkr",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2115",
+      "StreetName": "n 2d",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Bert R.",
+    "LastName": "Albin",
+    "Spouse": null,
+    "Occupation": "clks",
+    "CompanyName": "B. Olson Co",
+    "HomeAddress": {
+      "StreetNumber": "105",
+      "StreetName": "Nic- onet av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "rms"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Hugo",
+    "LastName": "Albin",
+    "Spouse": null,
+    "Occupation": "appr",
+    "CompanyName": "Diamond Iron Wks",
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": "Washn. av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Swan",
+    "LastName": "Albin",
+    "Spouse": null,
+    "Occupation": "ab",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": "Washn. av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Oscar F",
+    "LastName": "Albinson",
+    "Spouse": "Moe, Anderson & Albinson",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1005",
+      "StreetName": "2th av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Aubert",
+    "LastName": "Albrecht",
+    "Spouse": null,
+    "Occupation": "baggageman",
+    "CompanyName": "C M & St P Ry",
+    "HomeAddress": {
+      "StreetNumber": "2612",
+      "StreetName": "Riverside av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Altona",
+    "LastName": "Albrecht",
+    "Spouse": null,
+    "Occupation": "opr",
+    "CompanyName": "N W Woolen Mill Co",
+    "HomeAddress": {
+      "StreetNumber": "245",
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles F",
+    "LastName": "Albrecht",
+    "Spouse": "Hume & Albrecht",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "55",
+      "StreetName": "Roy- on",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Christian",
+    "LastName": "Albrecht",
+    "Spouse": null,
+    "Occupation": "lab",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1419",
+      "StreetName": "Aldrich av n",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Ennima M",
+    "LastName": "Albrecht",
+    "Spouse": null,
+    "Occupation": "sewer",
+    "CompanyName": "Bemis Bro Bag Co",
+    "HomeAddress": {
+      "StreetNumber": "945",
+      "StreetName": "29d av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Frank A.",
+    "LastName": "Albrecht",
+    "Spouse": null,
+    "Occupation": "chimney sweep",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2908",
+      "StreetName": "Minne- a",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Brederick W",
+    "LastName": "Albrecht",
+    "Spouse": null,
+    "Occupation": "coachman",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1448",
+      "StreetName": "Kenwood way",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "John",
+    "LastName": "Albrecht",
+    "Spouse": null,
+    "Occupation": "appr",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2908",
+      "StreetName": "Minnehaha av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Katharine",
+    "LastName": "Albrecht",
+    "Spouse": null,
+    "Occupation": "sewer",
+    "CompanyName": "Bemis Bro Bag Co",
+    "HomeAddress": {
+      "StreetNumber": "245-224",
+      "StreetName": "av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Lavinia",
+    "LastName": "Albrecht",
+    "Spouse": null,
+    "Occupation": "stenogr",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "3212",
+      "StreetName": "Clinton av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Nellie",
+    "LastName": "Albrecht",
+    "Spouse": null,
+    "Occupation": "stenogr",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "3212",
+      "StreetName": "Clinton av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Edward",
+    "LastName": "Albright",
+    "Spouse": null,
+    "Occupation": "bkpr",
+    "CompanyName": "Crocker Chair Co",
+    "HomeAddress": {
+      "StreetNumber": "27th",
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "H W S",
+    "LastName": "Albright",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": "H W S & Co",
+    "HomeAddress": {
+      "StreetNumber": "427",
+      "StreetName": "Boston blk",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "John",
+    "LastName": "Albright",
+    "Spouse": null,
+    "Occupation": "switchman",
+    "CompanyName": "GN Ry",
+    "HomeAddress": {
+      "StreetNumber": "226",
+      "StreetName": "n 24",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "John",
+    "LastName": "Albright",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "219",
+      "StreetName": "8d av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Wm",
+    "LastName": "Albright",
+    "Spouse": null,
+    "Occupation": "chk",
+    "CompanyName": "Crocker Chair Co",
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Elizabeth S",
+    "LastName": "Albre",
+    "Spouse": null,
+    "Occupation": "bkpr",
+    "CompanyName": "F L Gray",
+    "HomeAddress": {
+      "StreetNumber": "2402",
+      "StreetName": "4th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Mary C",
+    "LastName": "Albre",
+    "Spouse": null,
+    "Occupation": "demonstrator",
+    "CompanyName": "Yerxa Bros & Co",
+    "HomeAddress": {
+      "StreetNumber": "2402",
+      "StreetName": "4th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Nellie H",
+    "LastName": "Albre",
+    "Spouse": null,
+    "Occupation": "dressmkr",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2001",
+      "StreetName": "4th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Wm B",
+    "LastName": "Albre",
+    "Spouse": null,
+    "Occupation": "clk",
+    "CompanyName": "Patterson & Stevenson",
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": "Clinton av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Wm W",
+    "LastName": "Albre",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2402",
+      "StreetName": "4th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Abraham",
+    "LastName": "Album",
+    "Spouse": null,
+    "Occupation": "trav agt",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1816",
+      "StreetName": "15th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Ahaz",
+    "LastName": "Alcott",
+    "Spouse": null,
+    "Occupation": "pastor",
+    "CompanyName": "All’ Souls’ Universalist church",
+    "HomeAddress": {
+      "StreetNumber": "501",
+      "StreetName": "8th av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Frank",
+    "LastName": "Alcott",
+    "Spouse": null,
+    "Occupation": "clk",
+    "CompanyName": "Northwestern Butter Market",
+    "HomeAddress": {
+      "StreetNumber": "534",
+      "StreetName": "Greeley av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Mary",
+    "LastName": "Alcott",
+    "Spouse": null,
+    "Occupation": "student",
+    "CompanyName": "U of M",
+    "HomeAddress": {
+      "StreetNumber": "501",
+      "StreetName": "8th av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Mervin",
+    "LastName": "Alcott",
+    "Spouse": null,
+    "Occupation": "helper",
+    "CompanyName": "Barnard- Cope Mnfg Co",
+    "HomeAddress": {
+      "StreetNumber": "501",
+      "StreetName": "8th av.se",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Robert",
+    "LastName": "Alcott",
+    "Spouse": null,
+    "Occupation": "student",
+    "CompanyName": "U of M",
+    "HomeAddress": {
+      "StreetNumber": "501",
+      "StreetName": "sth av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Albert",
+    "LastName": "Alden",
+    "Spouse": null,
+    "Occupation": "clk",
+    "CompanyName": "The Plymouth",
+    "HomeAddress": {
+      "StreetNumber": "4000",
+      "StreetName": "Chicago av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Albert",
+    "LastName": "Alden",
+    "Spouse": null,
+    "Occupation": "clk",
+    "CompanyName": "Evans, Munzer, Pickering & Co",
+    "HomeAddress": {
+      "StreetNumber": "1717",
+      "StreetName": "Laurel av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Andrew",
+    "LastName": "Alden",
+    "Spouse": null,
+    "Occupation": "elev opr",
+    "CompanyName": "The Phoenix",
+    "HomeAddress": {
+      "StreetNumber": "722",
+      "StreetName": "eth",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Byron",
+    "LastName": "Alden",
+    "Spouse": null,
+    "Occupation": "heater",
+    "CompanyName": "Minn I & s Co",
+    "HomeAddress": {
+      "StreetNumber": "4900",
+      "StreetName": "Central av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "Alden",
+    "Spouse": null,
+    "Occupation": "vice-pres",
+    "CompanyName": "Brainerd Lor. co",
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "Alden",
+    "Spouse": null,
+    "Occupation": "slmn",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "3052",
+      "StreetName": "Russell avn",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "Alden",
+    "Spouse": null,
+    "Occupation": "carpetlyr",
+    "CompanyName": "Evans, Munzer, Pickering & Co",
+    "HomeAddress": {
+      "StreetNumber": "3052",
+      "StreetName": "Russell avn",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Edgar",
+    "LastName": "Alden",
+    "Spouse": null,
+    "Occupation": "clk",
+    "CompanyName": "SE Olson Co",
+    "HomeAddress": {
+      "StreetNumber": "306",
+      "StreetName": "8th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "rms"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Gertrude",
+    "LastName": "Alden",
+    "Spouse": "Robert S",
+    "Occupation": "embroidery",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": "Lyndale av n",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Harriet",
+    "LastName": "Alden",
+    "Spouse": null,
+    "Occupation": "stenogr",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1717",
+      "StreetName": "Laurel av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Herbert",
+    "LastName": "Alden",
+    "Spouse": null,
+    "Occupation": "finisher",
+    "CompanyName": "G W Stove Co",
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Jessie",
+    "LastName": "C",
+    "Spouse": "Wm",
+    "Occupation": "stenogr",
+    "CompanyName": "Nw. Cons Milling Co",
+    "HomeAddress": {
+      "StreetNumber": "1800",
+      "StreetName": "Emerson av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Lyman",
+    "LastName": "S",
+    "Spouse": null,
+    "Occupation": "carrier",
+    "CompanyName": "Mpls Tribune",
+    "HomeAddress": {
+      "StreetNumber": "177",
+      "StreetName": "Laurel ay",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Mary",
+    "LastName": "M",
+    "Spouse": null,
+    "Occupation": "student",
+    "CompanyName": "Mpls Academy",
+    "HomeAddress": {
+      "StreetNumber": "520",
+      "StreetName": "12th av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Robert",
+    "LastName": "S",
+    "Spouse": null,
+    "Occupation": "painter",
+    "CompanyName": "D. Kelsey & Co",
+    "HomeAddress": {
+      "StreetNumber": "500",
+      "StreetName": "Central av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Spencer",
+    "LastName": "E B",
+    "Spouse": null,
+    "Occupation": "molder",
+    "CompanyName": "Diamond Iron Wks",
+    "HomeAddress": {
+      "StreetNumber": "1724",
+      "StreetName": "Lyndale av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Wm",
+    "LastName": "A",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": "Evans, Munzer, Pickering & Co",
+    "HomeAddress": {
+      "StreetNumber": "64",
+      "StreetName": "Clarence av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "F",
+    "Spouse": null,
+    "Occupation": "lawyer",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "3508",
+      "StreetName": "Pleasant av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": {
+      "StreetNumber": "408",
+      "StreetName": "Temple Ct",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "w"
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Alderson",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "baker",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "3508",
+      "StreetName": "Pleasant av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Albert",
+    "LastName": "Aldray",
+    "Spouse": null,
+    "Occupation": "waiter",
+    "CompanyName": "Minikahda Club",
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Abbie",
+    "LastName": "V",
+    "Spouse": "Robert B",
+    "Occupation": "smstrs",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1007",
+      "StreetName": "Washn av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "ALANSON",
+    "LastName": "G",
+    "Spouse": null,
+    "Occupation": "PHYSICIAN",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetName": "Hotel Waverley",
+      "StreetNumber": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": {
+      "StreetNumber": "13",
+      "StreetName": "Dayton Bldg",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "w"
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Alfred",
+    "LastName": "D",
+    "Spouse": null,
+    "Occupation": "hairdresser",
+    "CompanyName": "Mrs. A. D Aldrich",
+    "HomeAddress": {
+      "StreetNumber": "414",
+      "StreetName": "Queen av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Alfred",
+    "LastName": "M",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Annie",
+    "LastName": "D",
+    "Spouse": null,
+    "Occupation": "hair goods",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "414",
+      "StreetName": "Queen av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": {
+      "StreetNumber": "407",
+      "StreetName": "Nicollet",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "w"
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "R",
+    "Spouse": null,
+    "Occupation": "architect",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetName": "St Anthony Pk",
+      "StreetNumber": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": {
+      "StreetNumber": "606",
+      "StreetName": "Lumber Exch",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "w"
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "W",
+    "Spouse": null,
+    "Occupation": "trav agt",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2935",
+      "StreetName": "Aldrich av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Ethel",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "clk",
+    "CompanyName": "The Economy",
+    "HomeAddress": {
+      "StreetNumber": "1623",
+      "StreetName": "Stev",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Bora",
+    "LastName": "W",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": null,
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "messr",
+    "CompanyName": "West Hotel",
+    "HomeAddress": {
+      "StreetNumber": "115",
+      "StreetName": "Haworn",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Frederick",
+    "LastName": "A",
+    "Spouse": null,
+    "Occupation": "elk",
+    "CompanyName": "M. S Wallace",
+    "HomeAddress": {
+      "StreetNumber": "1628",
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Frederick",
+    "LastName": "Stevens",
+    "Spouse": null,
+    "Occupation": "grocer",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "7",
+      "StreetName": "Stevens av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": {
+      "StreetNumber": "318",
+      "StreetName": "w. Lake",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "w"
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Henry",
+    "LastName": "Aldrich",
+    "Spouse": null,
+    "Occupation": "Physician",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "8",
+      "StreetName": "s 9th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": {
+      "StreetNumber": "313",
+      "StreetName": "Medical Blk",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "w"
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Clara",
+    "LastName": "He",
+    "Spouse": "Cyrus",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "5",
+      "StreetName": "s 9th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Edith",
+    "LastName": "R",
+    "Spouse": null,
+    "Occupation": "clk",
+    "CompanyName": "Elevator",
+    "HomeAddress": {
+      "StreetNumber": "312",
+      "StreetName": "6th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Emma",
+    "LastName": null,
+    "Spouse": "Ezra WWW",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": "Hawthorn",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Mary",
+    "LastName": "Aldrich",
+    "Spouse": null,
+    "Occupation": "clk City Assessor",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "822",
+      "StreetName": "4th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Louise",
+    "LastName": "Aldrich",
+    "Spouse": null,
+    "Occupation": "stenogr",
+    "CompanyName": "The Roberts Heating & Ventilating Co",
+    "HomeAddress": {
+      "StreetNumber": "2985",
+      "StreetName": "Aldrich av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Nettie",
+    "LastName": "Aldrich",
+    "Spouse": "Frank",
+    "Occupation": "cook",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "106",
+      "StreetName": "Central av",
+      "ApartmentOrUnit": "109",
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Randall",
+    "LastName": "Aldrich",
+    "Spouse": null,
+    "Occupation": "pastor",
+    "CompanyName": "Tuttle Universalist Church",
+    "HomeAddress": {
+      "StreetNumber": "25th",
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "T",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": "janitor",
+    "CompanyName": "Columbia flats",
+    "HomeAddress": {
+      "StreetNumber": "162",
+      "StreetName": "Stevens av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Villa",
+    "LastName": "Aldrich",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "85",
+      "StreetName": "9th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Wim",
+    "LastName": "Aldrich",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "308",
+      "StreetName": "11th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Wm",
+    "LastName": "Aldrich",
+    "Spouse": null,
+    "Occupation": "fuel",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2713",
+      "StreetName": "e 25th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Wm",
+    "LastName": "H Aldrich",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": "28th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "John",
+    "LastName": "Aldrick",
+    "Spouse": null,
+    "Occupation": "tailor",
+    "CompanyName": "The Plymouth",
+    "HomeAddress": {
+      "StreetNumber": "360",
+      "StreetName": "Dupont av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Jacob",
+    "LastName": "Aldridge",
+    "Spouse": null,
+    "Occupation": "foreman",
+    "CompanyName": "Mpls G BD Co",
+    "HomeAddress": {
+      "StreetNumber": "261",
+      "StreetName": "ne Polk",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Arthur",
+    "LastName": "Aldritt",
+    "Spouse": null,
+    "Occupation": "bkpr",
+    "CompanyName": "Lumberman Pub Co",
+    "HomeAddress": {
+      "StreetNumber": "1815",
+      "StreetName": "Hawthorn av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "Aldwin",
+    "Spouse": null,
+    "Occupation": "lab",
+    "CompanyName": "Lindsay Bros",
+    "HomeAddress": {
+      "StreetNumber": "1315",
+      "StreetName": "Aldrich av n",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Wm",
+    "LastName": "Aldworth",
+    "Spouse": null,
+    "Occupation": "lodgings",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "24",
+      "StreetName": "Hennepin av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Alexander",
+    "LastName": "Aleckson",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Abbie",
+    "LastName": "Alexander",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Andrew",
+    "LastName": "Alexander",
+    "Spouse": null,
+    "Occupation": "lab",
+    "CompanyName": "Fulton & Libbey Co",
+    "HomeAddress": {
+      "StreetNumber": "1516",
+      "StreetName": "n 4th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Anna",
+    "LastName": "Alexander",
+    "Spouse": "Wellington",
+    "Occupation": "dressmkr",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "29",
+      "StreetName": "s 9th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "arthur",
+    "LastName": "Alexander",
+    "Spouse": null,
+    "Occupation": "trav agt",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "4200",
+      "StreetName": "Park boul",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Caroline",
+    "LastName": "Alexander",
+    "Spouse": "Henry",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": "84th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "Alexander",
+    "Spouse": null,
+    "Occupation": "cook",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "812",
+      "StreetName": "8th av n",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "Alexander",
+    "Spouse": null,
+    "Occupation": "tmstr",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2440",
+      "StreetName": "16th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "Alexander",
+    "Spouse": null,
+    "Occupation": "dairy",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": "East Side boul s of short line bridge",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "Alexander",
+    "Spouse": null,
+    "Occupation": "cook",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "812",
+      "StreetName": "8th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charlies",
+    "LastName": "Alexander",
+    "Spouse": null,
+    "Occupation": "retoucher",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "623",
+      "StreetName": "Medical blk",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "Alexander",
+    "Spouse": null,
+    "Occupation": "student",
+    "CompanyName": "Uv of M",
+    "HomeAddress": {
+      "StreetNumber": "1318",
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Easton",
+    "LastName": "Alexander",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "622",
+      "StreetName": "se Brie",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Elmer",
+    "LastName": "Alexander",
+    "Spouse": null,
+    "Occupation": "car repr",
+    "CompanyName": "CM & St P Ry",
+    "HomeAddress": {
+      "StreetNumber": "3228",
+      "StreetName": "93d av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Emma",
+    "LastName": "Alexander",
+    "Spouse": null,
+    "Occupation": "furnished rooms",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "46",
+      "StreetName": "s 4th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Huett",
+    "LastName": "Alexander",
+    "Spouse": null,
+    "Occupation": "student",
+    "CompanyName": "uo of M",
+    "HomeAddress": {
+      "StreetNumber": "628",
+      "StreetName": "14th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Fidelis",
+    "LastName": null,
+    "Spouse": "Arthur L",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "4200",
+      "StreetName": "Park boul",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "George",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "student",
+    "CompanyName": "U of M",
+    "HomeAddress": {
+      "StreetNumber": "628",
+      "StreetName": "14th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "rms"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Henry",
+    "LastName": "R",
+    "Spouse": null,
+    "Occupation": "lab",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "204",
+      "StreetName": "Hennepin av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "rms"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "James",
+    "LastName": "B",
+    "Spouse": null,
+    "Occupation": "civ eng",
+    "CompanyName": "C M & St. P Ry",
+    "HomeAddress": {
+      "StreetNumber": "3039",
+      "StreetName": "17th av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "John",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "621",
+      "StreetName": "s e Ontoria",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "John",
+    "LastName": "H",
+    "Spouse": null,
+    "Occupation": "jailor",
+    "CompanyName": "county jail",
+    "HomeAddress": {
+      "StreetNumber": "117",
+      "StreetName": "w ath",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Louis",
+    "LastName": "F",
+    "Spouse": null,
+    "Occupation": "carp",
+    "CompanyName": "M V Tel Co",
+    "HomeAddress": {
+      "StreetNumber": "211",
+      "StreetName": "s 12th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Lyman",
+    "LastName": "L",
+    "Spouse": null,
+    "Occupation": "electrician",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1680",
+      "StreetName": "Stevens av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Samuel",
+    "LastName": "Alexander",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": "Alexander & Ca",
+    "HomeAddress": {
+      "StreetNumber": "2104",
+      "StreetName": "Portland av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Wm",
+    "LastName": "A",
+    "Spouse": null,
+    "Occupation": "student",
+    "CompanyName": "U of M",
+    "HomeAddress": {
+      "StreetNumber": "416",
+      "StreetName": "14th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Wm",
+    "LastName": "J",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Sanfrid",
+    "LastName": "Alexanderson",
+    "Spouse": null,
+    "Occupation": "mach",
+    "CompanyName": "Pillsbury A",
+    "HomeAddress": {
+      "StreetNumber": "2445",
+      "StreetName": "Elllict av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Andrew",
+    "LastName": "Alexson",
+    "Spouse": null,
+    "Occupation": "stove mbunter",
+    "CompanyName": "Security Stove Wks",
+    "HomeAddress": {
+      "StreetNumber": "2636",
+      "StreetName": "29th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Martha",
+    "LastName": null,
+    "Spouse": "Simon",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "69",
+      "StreetName": "Western av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Rachel",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Frederick",
+    "LastName": "Ale",
+    "Spouse": null,
+    "Occupation": "lab",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "521",
+      "StreetName": "12th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "rms"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Ole",
+    "LastName": "Alfness",
+    "Spouse": null,
+    "Occupation": "clk",
+    "CompanyName": "S E Olson Co",
+    "HomeAddress": {
+      "StreetNumber": "413",
+      "StreetName": "Cedar av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "rms"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "Alford",
+    "Spouse": null,
+    "Occupation": "lab",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "189",
+      "StreetName": "Western av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Harry",
+    "LastName": "Alford",
+    "Spouse": null,
+    "Occupation": "eng",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "189",
+      "StreetName": "Western av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Walter",
+    "LastName": "C Alford",
+    "Spouse": null,
+    "Occupation": "tmstr",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "189",
+      "StreetName": "Western av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Edward",
+    "LastName": "Alfred",
+    "Spouse": null,
+    "Occupation": "tel opr",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "223",
+      "StreetName": "s 11th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "rms"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Edward",
+    "LastName": "W",
+    "Spouse": null,
+    "Occupation": "miner",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "3",
+      "StreetName": "Central av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Wm",
+    "LastName": "L",
+    "Spouse": null,
+    "Occupation": "opr",
+    "CompanyName": "WU tel Co",
+    "HomeAddress": {
+      "StreetNumber": "223",
+      "StreetName": "s 11th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "rms"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Duncan",
+    "LastName": "Algar",
+    "Spouse": null,
+    "Occupation": "weighmaster",
+    "CompanyName": "G N elev 1",
+    "HomeAddress": {
+      "StreetNumber": "22",
+      "StreetName": "n 12th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charies",
+    "LastName": "I Alger",
+    "Spouse": null,
+    "Occupation": "transfer agt",
+    "CompanyName": "Mpls Om",
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Edraund",
+    "LastName": "WwW",
+    "Spouse": null,
+    "Occupation": "Student",
+    "CompanyName": "U of M",
+    "HomeAddress": {
+      "StreetNumber": "1227",
+      "StreetName": "University",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Isaac",
+    "LastName": "D",
+    "Spouse": null,
+    "Occupation": "phys",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "401",
+      "StreetName": "14th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Algoren",
+    "LastName": "Mrs Bertha",
+    "Spouse": null,
+    "Occupation": "opr",
+    "CompanyName": "Hegna Mafg Co",
+    "HomeAddress": {
+      "StreetNumber": "20380",
+      "StreetName": "26th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Aléren",
+    "LastName": "Augusta",
+    "Spouse": "Nels A",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2624",
+      "StreetName": "e 8th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Aurora",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "tailor",
+    "CompanyName": "Nicholson Bros",
+    "HomeAddress": {
+      "StreetNumber": "2624",
+      "StreetName": "s 8th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Catherine",
+    "LastName": "M",
+    "Spouse": "Otto F",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "118",
+      "StreetName": "s 8th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Conrad",
+    "LastName": "A",
+    "Spouse": null,
+    "Occupation": "rer",
+    "CompanyName": "American Novelty Mnfg Co",
+    "HomeAddress": {
+      "StreetNumber": "2804",
+      "StreetName": "Riverside",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "John",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "bartndr",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "224",
+      "StreetName": "Hennepin",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "rms"
+    },
+    "WorkAddress": {
+      "StreetNumber": "129",
+      "StreetName": "Nicollet",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Osear",
+    "LastName": "F",
+    "Spouse": null,
+    "Occupation": "bricklyr",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1118",
+      "StreetName": "s 8th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Donalé",
+    "LastName": "M",
+    "Spouse": null,
+    "Occupation": "sec",
+    "CompanyName": "Mpls. Rétail Salesmen Assn",
+    "HomeAddress": {
+      "StreetNumber": "620",
+      "StreetName": "Nicollet",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "rms"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Frank",
+    "LastName": "J",
+    "Spouse": null,
+    "Occupation": "tmstr",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "£03",
+      "StreetName": "n e Marshall",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Joseph",
+    "LastName": "P",
+    "Spouse": null,
+    "Occupation": "biksmith",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "421",
+      "StreetName": "Washn",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Marie",
+    "LastName": "L",
+    "Spouse": null,
+    "Occupation": "dom",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "413",
+      "StreetName": "32a",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Anak",
+    "LastName": "wm",
+    "Spouse": null,
+    "Occupation": "carp",
+    "CompanyName": "TCR T Co",
+    "HomeAddress": {
+      "StreetNumber": "319",
+      "StreetName": "n e 2d",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Wm",
+    "LastName": "jr",
+    "Spouse": null,
+    "Occupation": "barber",
+    "CompanyName": "E & Kreitz",
+    "HomeAddress": {
+      "StreetNumber": "319",
+      "StreetName": "n e 2d",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Dayid",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "biksmith",
+    "CompanyName": "M & st. P Ry",
+    "HomeAddress": {
+      "StreetNumber": "1914",
+      "StreetName": "2 ith av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "David",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "wy mach",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1914",
+      "StreetName": "17th av 3",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "David",
+    "LastName": "M",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": "Sheet Metal Wks",
+    "HomeAddress": {
+      "StreetNumber": "3052",
+      "StreetName": "12th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": {
+      "StreetNumber": "237",
+      "StreetName": "6th ay",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "John",
+    "LastName": "W",
+    "Spouse": null,
+    "Occupation": "eng",
+    "CompanyName": "American Mining Inv Co",
+    "HomeAddress": {
+      "StreetNumber": "2937",
+      "StreetName": "Chicago",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Mary",
+    "LastName": "I",
+    "Spouse": "John",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1108",
+      "StreetName": "se 4th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Wm",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "tinner",
+    "CompanyName": "D M Allan",
+    "HomeAddress": {
+      "StreetNumber": "3952",
+      "StreetName": "ath av 8",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Aitag",
+    "LastName": "Wan",
+    "Spouse": null,
+    "Occupation": "real est",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "410",
+      "StreetName": "Sykes",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "Allanson",
+    "Spouse": "George",
+    "Occupation": "mngr",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "166",
+      "StreetName": "Linden av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "George",
+    "LastName": "Allanson",
+    "Spouse": null,
+    "Occupation": "agt CM & St. P Ry",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "w"
+    },
+    "WorkAddress": {
+      "StreetNumber": null,
+      "StreetName": "depot",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "w"
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Alfred",
+    "LastName": "Ajlard",
+    "Spouse": null,
+    "Occupation": "cond",
+    "CompanyName": "T C R T Co",
+    "HomeAddress": {
+      "StreetNumber": "10",
+      "StreetName": "University av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Alfred",
+    "LastName": "Ajlard",
+    "Spouse": null,
+    "Occupation": "clk",
+    "CompanyName": "T C R T Co",
+    "HomeAddress": {
+      "StreetNumber": "521",
+      "StreetName": "5th av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Howard",
+    "LastName": "Ajlard",
+    "Spouse": null,
+    "Occupation": "cond",
+    "CompanyName": "T C R T Co",
+    "HomeAddress": {
+      "StreetNumber": "821",
+      "StreetName": "5th av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Helen",
+    "LastName": "Ajlard",
+    "Spouse": null,
+    "Occupation": "tehr",
+    "CompanyName": "Central High School",
+    "HomeAddress": {
+      "StreetNumber": "1345",
+      "StreetName": "1st av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Joseph",
+    "LastName": "Ajlard",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1819",
+      "StreetName": "n 2d",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Joseph",
+    "LastName": "Ajlard",
+    "Spouse": null,
+    "Occupation": "car opr",
+    "CompanyName": "T C R T Co",
+    "HomeAddress": {
+      "StreetNumber": "1819",
+      "StreetName": "n 2d",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Louis",
+    "LastName": "Ajlard",
+    "Spouse": null,
+    "Occupation": "carp",
+    "CompanyName": "M & St LR R",
+    "HomeAddress": {
+      "StreetNumber": "1819",
+      "StreetName": "n 2d",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Frederick",
+    "LastName": "Allardyce",
+    "Spouse": null,
+    "Occupation": "spl carrier",
+    "CompanyName": "P O",
+    "HomeAddress": {
+      "StreetNumber": "1404",
+      "StreetName": "Vine pl",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Laura",
+    "LastName": "Allardyce",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1404",
+      "StreetName": "Vine pl",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Caroline",
+    "LastName": "Allars",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "3217",
+      "StreetName": "Dupont av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Frank",
+    "LastName": "Allars",
+    "Spouse": null,
+    "Occupation": "clk",
+    "CompanyName": "Yerxa Bros & Co",
+    "HomeAddress": {
+      "StreetNumber": "3217",
+      "StreetName": "Dupont av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "J",
+    "LastName": "Allason",
+    "Spouse": null,
+    "Occupation": "mach",
+    "CompanyName": "M & St P Ry",
+    "HomeAddress": {
+      "StreetNumber": "1808",
+      "StreetName": "38th av S",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Daisy",
+    "LastName": "Allason",
+    "Spouse": null,
+    "Occupation": "stenogr",
+    "CompanyName": "J H Kenedy",
+    "HomeAddress": {
+      "StreetNumber": "1808",
+      "StreetName": "38th av S",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Henry",
+    "LastName": "Allason",
+    "Spouse": null,
+    "Occupation": "eng",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1808",
+      "StreetName": "18th av S",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Frank",
+    "LastName": "Allay",
+    "Spouse": null,
+    "Occupation": "barber",
+    "CompanyName": "row Cole",
+    "HomeAddress": {
+      "StreetNumber": "810",
+      "StreetName": "6th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "Allbright",
+    "Spouse": null,
+    "Occupation": "oiler",
+    "CompanyName": "N S Pumping Sta",
+    "HomeAddress": {
+      "StreetNumber": "1011",
+      "StreetName": "s e 6th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Anna",
+    "LastName": "Allee",
+    "Spouse": null,
+    "Occupation": "tehr",
+    "CompanyName": "Clinton School",
+    "HomeAddress": {
+      "StreetNumber": "2437",
+      "StreetName": "14th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "David",
+    "LastName": "Allee",
+    "Spouse": null,
+    "Occupation": "civil eng",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2437",
+      "StreetName": "14th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "George",
+    "LastName": "Allee",
+    "Spouse": null,
+    "Occupation": "awningmkr",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "3050",
+      "StreetName": "Cedar av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Wm",
+    "LastName": "Allee",
+    "Spouse": null,
+    "Occupation": "agt",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2487",
+      "StreetName": "14th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Adolph",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": "pres",
+    "CompanyName": "E H Erickson Artificial Limb Co",
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": "St Anthony Pk",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Adolphus",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2216",
+      "StreetName": "Kenwood pkway",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Alert",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": "buyer",
+    "CompanyName": "The Palace",
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": "Hotel Berk",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Albert",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": "inspectr city water wks",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "3213",
+      "StreetName": "16th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Albert",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": "elev opr",
+    "CompanyName": "Sykes blk",
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Alice",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "746",
+      "StreetName": "e 18th",
+      "ApartmentOrUnit": "rms",
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Alma",
+    "LastName": "M",
+    "Spouse": null,
+    "Occupation": "tchr",
+    "CompanyName": "Clinton School",
+    "HomeAddress": {
+      "StreetNumber": "3136",
+      "StreetName": "Portland",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Aimer",
+    "LastName": "A",
+    "Spouse": null,
+    "Occupation": "treas",
+    "CompanyName": "Home Savings & Loan Assn",
+    "HomeAddress": {
+      "StreetNumber": "83",
+      "StreetName": "Highland",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Alvina",
+    "LastName": null,
+    "Spouse": "Everett W",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "9200",
+      "StreetName": "Stevens",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Alvira",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "pnats",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1925",
+      "StreetName": "4th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": {
+      "StreetNumber": "1927",
+      "StreetName": "4th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "w"
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Anna",
+    "LastName": null,
+    "Spouse": "Edward L",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "409",
+      "StreetName": "4th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Arthur",
+    "LastName": "B",
+    "Spouse": null,
+    "Occupation": "student",
+    "CompanyName": "U of M",
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": "St Paul",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Arthur",
+    "LastName": "E",
+    "Spouse": null,
+    "Occupation": "clk",
+    "CompanyName": "Municipal Court",
+    "HomeAddress": {
+      "StreetNumber": "3142",
+      "StreetName": "3d av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "U. D.",
+    "LastName": "Thomas",
+    "Spouse": null,
+    "Occupation": "President",
+    "CompanyName": "THE HYGEIA INSTITUTE OF PSYCHO-THERAPEUTICS",
+    "HomeAddress": null,
+    "WorkAddress": {
+      "StreetNumber": "128",
+      "StreetName": "E. 14th St",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "w"
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "J. W.",
+    "LastName": "Ashworth",
+    "Spouse": null,
+    "Occupation": "Secretary",
+    "CompanyName": "THE HYGEIA INSTITUTE OF PSYCHO-THERAPEUTICS",
+    "HomeAddress": null,
+    "WorkAddress": {
+      "StreetNumber": "128",
+      "StreetName": "E. 14th St",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "w"
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "August",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": "Allen & Jackson",
+    "HomeAddress": {
+      "StreetNumber": "716",
+      "StreetName": "n Jefferson",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Benson",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": "Physician",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2413",
+      "StreetName": "Bloomington av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Bertrand",
+    "LastName": "C",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Blanche",
+    "LastName": "A",
+    "Spouse": null,
+    "Occupation": "techr",
+    "CompanyName": "Grant school",
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Mary",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Johan",
+    "LastName": "E",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": "Bros",
+    "HomeAddress": null,
+    "WorkAddress": {
+      "StreetNumber": "305",
+      "StreetName": "2d av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "w"
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Gustaf",
+    "LastName": "W",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": "Bros",
+    "HomeAddress": null,
+    "WorkAddress": {
+      "StreetNumber": "305",
+      "StreetName": "2d av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "w"
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Caroline",
+    "LastName": null,
+    "Spouse": "Daniel C",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "3142",
+      "StreetName": "3d av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": null,
+    "LastName": null,
+    "Spouse": "Truman D",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2017",
+      "StreetName": "G av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Catherine",
+    "LastName": null,
+    "Spouse": "Matthew",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "3935",
+      "StreetName": "Grand",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Catherine",
+    "LastName": "M",
+    "Spouse": "B H",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "lab",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "23",
+      "StreetName": "Nicollet av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "Smitn",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": "St Louis Pk",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "A",
+    "Spouse": null,
+    "Occupation": "letter carrier",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "128",
+      "StreetName": "13th av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "E",
+    "Spouse": null,
+    "Occupation": "clk",
+    "CompanyName": "C Bt P M & Oo Ry",
+    "HomeAddress": {
+      "StreetNumber": "2005",
+      "StreetName": "James av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "H",
+    "Spouse": null,
+    "Occupation": "waiter",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1405",
+      "StreetName": "Washn av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "M",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2633",
+      "StreetName": "13th av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "Z",
+    "Spouse": null,
+    "Occupation": "lumberman",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": "stat Cathoun",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Clarence",
+    "LastName": "A",
+    "Spouse": null,
+    "Occupation": "bkpr",
+    "CompanyName": "Josiah Thompson & Co",
+    "HomeAddress": {
+      "StreetNumber": "83",
+      "StreetName": "Highland av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Clayton",
+    "LastName": "J",
+    "Spouse": null,
+    "Occupation": "bkpr",
+    "CompanyName": "A Stromberg & Co",
+    "HomeAddress": {
+      "StreetNumber": "2028",
+      "StreetName": "Clinton av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Cora",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1421",
+      "StreetName": "ad ay",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Cora",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": "ennepin av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Herbert",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "coml agt",
+    "CompanyName": "C & BE I.R R",
+    "HomeAddress": {
+      "StreetNumber": "2627",
+      "StreetName": "Grand ave",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": {
+      "StreetNumber": null,
+      "StreetName": "High Grade Guaranty bidg",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Daniel",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "David",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "fireman",
+    "CompanyName": "CM & & P Ry",
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "David",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "cle",
+    "CompanyName": "Gustaf Alien",
+    "HomeAddress": {
+      "StreetNumber": "2542",
+      "StreetName": "ne Tay",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "David",
+    "LastName": "H",
+    "Spouse": null,
+    "Occupation": "clk",
+    "CompanyName": "GL Dingman",
+    "HomeAddress": {
+      "StreetNumber": "215",
+      "StreetName": "nel",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Derrick",
+    "LastName": "B",
+    "Spouse": null,
+    "Occupation": "pkr",
+    "CompanyName": "Cons B Mill",
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": "Russell av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Dora",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "housekpr",
+    "CompanyName": "West Hotel",
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Edgar",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "music tehr",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "623",
+      "StreetName": "ith av S",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Edgar",
+    "LastName": "A",
+    "Spouse": null,
+    "Occupation": "meats",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "3502",
+      "StreetName": "Chicago ay",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Edmund",
+    "LastName": "P",
+    "Spouse": null,
+    "Occupation": "sec and mngr",
+    "CompanyName": "American Adjustment Co",
+    "HomeAddress": {
+      "StreetNumber": "2016",
+      "StreetName": "Harriet av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": {
+      "StreetNumber": "805",
+      "StreetName": "Temple Ct",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Edna",
+    "LastName": "J",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "3213",
+      "StreetName": "16th av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Edward",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "phrenologist",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "5",
+      "StreetName": "1216 34th av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "rms"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Elliott",
+    "LastName": "C",
+    "Spouse": null,
+    "Occupation": "clk",
+    "CompanyName": "state weighmaster",
+    "HomeAddress": {
+      "StreetNumber": "1100",
+      "StreetName": "24th av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Elmer",
+    "LastName": "C",
+    "Spouse": null,
+    "Occupation": "painter",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2935",
+      "StreetName": "Queen av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": {
+      "StreetNumber": "309",
+      "StreetName": "Northwestern bidg",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Eugene",
+    "LastName": "B",
+    "Spouse": null,
+    "Occupation": "trav agt",
+    "CompanyName": "Hammond Pkg Co",
+    "HomeAddress": {
+      "StreetNumber": "500",
+      "StreetName": "11th av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Allen",
+    "LastName": "Fleyd",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": "Alien Bros",
+    "HomeAddress": {
+      "StreetNumber": "1520",
+      "StreetName": "Hawthorn",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Frank",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "driver",
+    "CompanyName": "Mpls. Milk Co",
+    "HomeAddress": {
+      "StreetNumber": "1208",
+      "StreetName": "S ath",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Frank",
+    "LastName": "B",
+    "Spouse": null,
+    "Occupation": "fireman",
+    "CompanyName": "C M & St P Ry",
+    "HomeAddress": {
+      "StreetNumber": "2515",
+      "StreetName": "23d",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Fred",
+    "LastName": "J",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "George",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "618",
+      "StreetName": "S 8th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "George",
+    "LastName": "E",
+    "Spouse": null,
+    "Occupation": "lab",
+    "CompanyName": "C M & St P shops",
+    "HomeAddress": {
+      "StreetNumber": "8036",
+      "StreetName": "20th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "George",
+    "LastName": "O",
+    "Spouse": null,
+    "Occupation": "waiter",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "709",
+      "StreetName": "s 3d",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "George",
+    "LastName": "Ww",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "3112",
+      "StreetName": "Oakland av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Gilbert",
+    "LastName": "L",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": "Soldiers’ Home",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Grace",
+    "LastName": "A",
+    "Spouse": null,
+    "Occupation": "stenogr",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "339",
+      "StreetName": "e 15th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Guster",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "grocer",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2542",
+      "StreetName": "n",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": {
+      "StreetNumber": "831",
+      "StreetName": "1ith av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Guatar",
+    "LastName": "O",
+    "Spouse": null,
+    "Occupation": "tailor",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2511",
+      "StreetName": "30th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Gustaf",
+    "LastName": "W",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": "Allen Bros",
+    "HomeAddress": {
+      "StreetNumber": "108",
+      "StreetName": "s 9th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Hannah",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "dom",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "3032",
+      "StreetName": "Pleasant av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Hannah",
+    "LastName": "A A",
+    "Spouse": "James B D",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": "Cedar",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Harlan",
+    "LastName": "P",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Harriet",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "bkpr",
+    "CompanyName": "D Cohen & Co",
+    "HomeAddress": {
+      "StreetNumber": "3746",
+      "StreetName": "dst",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Harriet",
+    "LastName": "F E M",
+    "Spouse": null,
+    "Occupation": "stenogr",
+    "CompanyName": "The Tontine Savings Ass’n",
+    "HomeAddress": {
+      "StreetNumber": "301",
+      "StreetName": "s 7",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Harry",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "musician",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "33",
+      "StreetName": "Collom blk",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "rms"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Harry",
+    "LastName": "B",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Harry",
+    "LastName": "G",
+    "Spouse": null,
+    "Occupation": "eng",
+    "CompanyName": "Nelson Paper Co",
+    "HomeAddress": {
+      "StreetNumber": "1",
+      "StreetName": "s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Harry",
+    "LastName": "L",
+    "Spouse": null,
+    "Occupation": "tmstr",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "623",
+      "StreetName": "n e Adams",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Harry",
+    "LastName": "W",
+    "Spouse": null,
+    "Occupation": "student",
+    "CompanyName": "U of M",
+    "HomeAddress": {
+      "StreetNumber": "400",
+      "StreetName": "Washn av s e",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "rms"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Harvey",
+    "LastName": "M",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "3020",
+      "StreetName": "2d av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Harvey",
+    "LastName": "S",
+    "Spouse": null,
+    "Occupation": "clk",
+    "CompanyName": "The Plymouth",
+    "HomeAddress": {
+      "StreetNumber": "839",
+      "StreetName": "e",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Honey",
+    "LastName": "A",
+    "Spouse": null,
+    "Occupation": "clk",
+    "CompanyName": "Monarch Elev Co",
+    "HomeAddress": {
+      "StreetNumber": "338",
+      "StreetName": "e 17th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Henry",
+    "LastName": "L",
+    "Spouse": null,
+    "Occupation": "tmstr",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2925",
+      "StreetName": "Stevens av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Herbert",
+    "LastName": "W",
+    "Spouse": null,
+    "Occupation": "mngr",
+    "CompanyName": "Am Adjustment Co",
+    "HomeAddress": {
+      "StreetNumber": "227",
+      "StreetName": "8th av s e",
+      "ApartmentOrUnit": "B",
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Horace",
+    "LastName": "L",
+    "Spouse": null,
+    "Occupation": "collarmkr",
+    "CompanyName": "Dodson, Fisher, Brockmann Co",
+    "HomeAddress": {
+      "StreetNumber": "1112",
+      "StreetName": "Hawthorn av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Hugh",
+    "LastName": "N",
+    "Spouse": null,
+    "Occupation": "clk",
+    "CompanyName": "county auditor",
+    "HomeAddress": {
+      "StreetNumber": "314",
+      "StreetName": "12th e",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Tea",
+    "LastName": "M",
+    "Spouse": null,
+    "Occupation": "tehr",
+    "CompanyName": "Adams school",
+    "HomeAddress": {
+      "StreetNumber": "510",
+      "StreetName": "14th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Inez",
+    "LastName": "Li",
+    "Spouse": null,
+    "Occupation": "tchr",
+    "CompanyName": "Madison school",
+    "HomeAddress": {
+      "StreetNumber": "746",
+      "StreetName": "e isth",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "James",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "lab",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "912",
+      "StreetName": "8 6th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "James",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "painter",
+    "CompanyName": "T C R:T Co",
+    "HomeAddress": {
+      "StreetNumber": "2521",
+      "StreetName": "29th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "James",
+    "LastName": "M",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "4124",
+      "StreetName": "Clinton av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Jane",
+    "LastName": null,
+    "Spouse": "Lucius",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2925",
+      "StreetName": "Stevens av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Jessie",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "nurse",
+    "CompanyName": "Hampshire Arms",
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": null,
+      "ApartmentOrUnit": "rms",
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "James",
+    "LastName": "B",
+    "Spouse": null,
+    "Occupation": "brklyr",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2108",
+      "StreetName": "16th. av. S",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "James",
+    "LastName": "Eg",
+    "Spouse": null,
+    "Occupation": "foreman",
+    "CompanyName": "Saxton & Phillips",
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Bessie",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "opr",
+    "CompanyName": "Johnson & Bates",
+    "HomeAddress": {
+      "StreetNumber": "15",
+      "StreetName": "Central",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Sohan",
+    "LastName": "E",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": "Allen Bros",
+    "HomeAddress": {
+      "StreetNumber": "108",
+      "StreetName": "s- oth",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "James",
+    "LastName": "M",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2113",
+      "StreetName": "Cedar av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "John",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2707",
+      "StreetName": "Colf",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "John",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "lab",
+    "CompanyName": "Nelson-Frey’ Co",
+    "HomeAddress": {
+      "StreetNumber": "222",
+      "StreetName": "Uni-sersity av ne",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "John",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "nailer",
+    "CompanyName": "Humboldt mill",
+    "HomeAddress": {
+      "StreetNumber": "912",
+      "StreetName": "s 6th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "John",
+    "LastName": "E",
+    "Spouse": null,
+    "Occupation": "mail clk",
+    "CompanyName": "Soo Line",
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": "gat Cal",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "John",
+    "LastName": "F",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": "Allen & Co",
+    "HomeAddress": {
+      "StreetNumber": "1822",
+      "StreetName": "CrystalLake av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "John",
+    "LastName": "M",
+    "Spouse": null,
+    "Occupation": "mner",
+    "CompanyName": "The. Wolf Co",
+    "HomeAddress": {
+      "StreetNumber": "324",
+      "StreetName": "s 34",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "John",
+    "LastName": "S",
+    "Spouse": null,
+    "Occupation": "JEWELER",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "3017",
+      "StreetName": "Grand. av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": {
+      "StreetNumber": "110",
+      "StreetName": "evan",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "w"
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "John",
+    "LastName": "W",
+    "Spouse": null,
+    "Occupation": "eng",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2987",
+      "StreetName": "Chicago av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "John",
+    "LastName": "Ww",
+    "Spouse": null,
+    "Occupation": "messr",
+    "CompanyName": "US$ Exp Co",
+    "HomeAddress": {
+      "StreetNumber": "2920",
+      "StreetName": "Pills-ury ay",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "John",
+    "LastName": "W",
+    "Spouse": null,
+    "Occupation": "bridge.carp",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "252",
+      "StreetName": "2d av See",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Joseph",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "supt",
+    "CompanyName": "Youghiogheny - LehighCoal Co",
+    "HomeAddress": {
+      "StreetNumber": "2913",
+      "StreetName": "Stevens av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Joseph",
+    "LastName": "I M",
+    "Spouse": null,
+    "Occupation": "student",
+    "CompanyName": "Mpls Coll. Pp & S",
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Joseph",
+    "LastName": "V",
+    "Spouse": null,
+    "Occupation": "civ eng",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1502",
+      "StreetName": "Hawthorn av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Josephine",
+    "LastName": "W A",
+    "Spouse": "Henry M",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2481",
+      "StreetName": "Garfield av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Julia",
+    "LastName": "Bemis",
+    "Spouse": null,
+    "Occupation": "turner",
+    "CompanyName": "Bemis Bros Bag Co",
+    "HomeAddress": {
+      "StreetNumber": "418",
+      "StreetName": "13th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "John F",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": "whol produce",
+    "CompanyName": "Tepe & Co",
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "WorkAddress": {
+      "StreetNumber": null,
+      "StreetName": "Central market",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "w"
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Laura",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Leon M",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": "fireman",
+    "CompanyName": "GC M & St. P Ry",
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": "Cedar ay",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Letitia",
+    "LastName": null,
+    "Spouse": "Daniel W",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "17",
+      "StreetName": "w 4th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Louis B",
+    "LastName": null,
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Lovel B",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": "PHYSICIAN AND Surgeon",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2645",
+      "StreetName": "Garfield av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": {
+      "StreetNumber": "251",
+      "StreetName": "Hennepin av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "w"
+    },
+    "Telephone": "Main 2245-L, South 390-J",
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Kate",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": "prin",
+    "CompanyName": "Holland school",
+    "HomeAddress": {
+      "StreetNumber": "17",
+      "StreetName": "w 14th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Mack R",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": "Plant Rubber Co",
+    "HomeAddress": {
+      "StreetNumber": "2741",
+      "StreetName": "Aldrich av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Margaret A",
+    "LastName": "Allen",
+    "Spouse": "Thomas",
+    "Occupation": "baker",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "3101",
+      "StreetName": "4th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Martha V",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "104",
+      "StreetName": "s 13th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Martin J",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Mary A",
+    "LastName": "Allen",
+    "Spouse": "Frank",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2449",
+      "StreetName": "13th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Mary E",
+    "LastName": "Allen",
+    "Spouse": "John M",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "106",
+      "StreetName": "e 26th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Matthew J",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": "grocer",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "401",
+      "StreetName": "s 10th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Milton S",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Nelson B",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": "lawyer",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "1516",
+      "StreetName": "5th av n",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Norman J",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": "eng",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "3218",
+      "StreetName": "16th av e",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Olive M",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": "chr",
+    "CompanyName": "Motley school",
+    "HomeAddress": {
+      "StreetNumber": "808",
+      "StreetName": "6th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Richard",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": "carp",
+    "CompanyName": "Mpls Thresh M Co",
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Rosamond",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "3144",
+      "StreetName": "Cedar av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Sarah",
+    "LastName": "Allen",
+    "Spouse": "Warren",
+    "Occupation": null,
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "3049",
+      "StreetName": "Bloomington",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Sarah",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": "tehr",
+    "CompanyName": "Blaine school",
+    "HomeAddress": {
+      "StreetNumber": "1720",
+      "StreetName": "sth",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Sarah B",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": "boarding",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": "w 10th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Thomas",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": "lab",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "3201",
+      "StreetName": "21st av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Thomas",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": "clk",
+    "CompanyName": "CM & St P Ry",
+    "HomeAddress": {
+      "StreetNumber": "1308",
+      "StreetName": "e",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Truman F",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": "pastor",
+    "CompanyName": "Thirteenth av M B church",
+    "HomeAddress": {
+      "StreetNumber": "1821",
+      "StreetName": "s 8th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Walter J",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": "student",
+    "CompanyName": "U of M",
+    "HomeAddress": {
+      "StreetNumber": "314",
+      "StreetName": "9th ave",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "h"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Walter P",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": "trav agt",
+    "CompanyName": "S R Sikes & Co",
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  },
+  {
+    "FirstName": "Ward W",
+    "LastName": "Allen",
+    "Spouse": null,
+    "Occupation": "vice pres",
+    "CompanyName": "H H Ming & Co",
+    "HomeAddress": {
+      "StreetNumber": null,
+      "StreetName": null,
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": null
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 104
+  }
+]
